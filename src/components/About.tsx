@@ -116,7 +116,7 @@ const About = () => {
                     }}
                     viewport={{ once: true }}>
                     <GridBox rate='2+' title='Years' />
-                    <GridBox rate='50+' title='Total Projects' />
+                    <GridBox rate='20+' title='Total Projects' />
                     <GridBox rate='10' title='Direct Clients' />
                     <GridBox rate='2' title='Companies' />
                 </motion.div>
