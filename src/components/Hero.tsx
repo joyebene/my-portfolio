@@ -1,5 +1,5 @@
 "use client";
-import { Briefcase, Diamond, DiamondPercent, Settings } from 'lucide-react';
+import { Briefcase, Diamond, Settings } from 'lucide-react';
 import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react'

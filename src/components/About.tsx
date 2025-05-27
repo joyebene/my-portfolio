@@ -62,7 +62,7 @@ const About = () => {
                         viewport={{ once: true }}
                     >
                         <h2 className='text-white text-xl lg:text-2xl font-semibold'>About Me</h2>
-                        <p className='text-gray-300'>Hi, I'm Joy Ebene, a software engineer with a passion for building applications that make a difference. With a keen eye for detail and a love for learning, i strive to deliver exeptional results.</p>
+                        <p className='text-gray-300'>Hi, I&apos;m Joy Ebene, a software engineer with a passion for building applications that make a difference. With a keen eye for detail and a love for learning, i strive to deliver exeptional results.</p>
                         <div className='border-2 border-gray-400 rounded-xl py-3 px-6 lg:px-0 lg:py-0 flex flex-col lg:flex-row mt-4'>
                             <div className='lg:w-[48%] lg:px-6 lg:py-3'>
                                 <div className='flex flex-col justify-center mt-5 gap-1 lg:gap-2'>
@@ -86,7 +86,7 @@ const About = () => {
                                 </div>
                                 <div className='flex flex-col justify-center mt-5 gap-1 lg:gap-2'>
                                     <h4 className='text-white font-semibold'>Degree</h4>
-                                    <p className='text-gray-300'>Bachelor's</p>
+                                    <p className='text-gray-300'>Bachelor&apos;s</p>
                                 </div>
                                 <div className='flex flex-col justify-center mt-5 gap-1 lg:gap-2'>
                                     <h4 className='text-white font-semibold'>Freelance</h4>
