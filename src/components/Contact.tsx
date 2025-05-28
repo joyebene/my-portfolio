@@ -62,7 +62,7 @@ const Contact = () => {
 
     return (
         <div className='bg-blue-500 min-h-[100%]' id='contact'>
-            <div className='bg-no-repeat bg-cover bg-center bg-[url("/bg5.jpg")] w-full h-full px-6 lg:px-12 xl:px-32 py-6 pb-20 lg:pb-24'>
+            <div className='bg-no-repeat bg-cover bg-bottom bg-[url("/bg1.jpg")] w-full h-full px-6 lg:px-12 xl:px-32 py-6 pb-20 lg:pb-24'>
                 <motion.div className='text-center w-full flex flex-col items-center justify-center mt-8 lg:mt-16' initial={{ opacity: 0, y: -20 }}
                     whileInView={{ opacity: 1, y: 0 }}
                     transition={{ duration: 0.6 }}
