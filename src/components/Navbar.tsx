@@ -8,7 +8,7 @@ const Navbar = () => {
   const [openNav, setOpenNav] = useState(false);
   return (
     <div className='w-full text-black bg-blue-800 fixed shadow-md z-50'>
-      <div className='w-full h-full text-black bg-purple-700/40'>
+      <div className='w-full h-full text-black bg-no-repeat bg-cover bg-center bg-[url("/bg1.jpg")]'>
         {/* mobile navbar */}
         <div className='lg:hidden'>
           <div className='flex items-center justify-between border-b border-blue-300/70 py-3 px-6 shadow-md'>

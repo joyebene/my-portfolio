@@ -34,7 +34,7 @@ const GridBox = ({ icon, title, text }: GridBoxProps) => {
 const Hero = () => {
   return (
     <div className='bg-blue-500 min-h-screen'>
-      <div className='min-h-screen pt-16 lg:pt-20 bg-gradient-to-b from-blue-900/70 via-purple-800/90 to-blue-900/70 text-white px-6 lg:px-12 xl:px-32 py-6'>
+      <div className='min-h-screen pt-16 lg:pt-20 text-white px-6 lg:px-12 xl:px-32 py-6 bg-no-repeat bg-cover bg-center bg-[url("/bg1.jpg")]'>
         <div className='flex flex-col items-center justify-center lg:flex-row lg:justify-between lg:items-center mt-12 gap-10'>
           {/* Text section */}
           <motion.div
